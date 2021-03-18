@@ -1,24 +1,17 @@
-# innso-test
+# INNSO TEST
 
-## Project setup
+## Configuration du projet
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compile et recharge à chaud pour le développement
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
+npm start
 ```
 
-### Lints and fixes files
+### Lints et corrige les fichiers
 ```
-npm run lint
+npm run lint -- --fix
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
